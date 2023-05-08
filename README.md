@@ -32,6 +32,12 @@ Image generation: train and output images from prompts with wild imagination.
 ```
 [stable diffusion](https://stablediffusionweb.com/)
 
+
+
+![image example](https://user-images.githubusercontent.com/99071588/236778233-8e8a697f-b95f-4a8a-b880-4afc179e92c0.png)
+
+
+
 Text generation: workable API to chatgpt with chatbox with two ways: library and endpoints.
 
 ```
