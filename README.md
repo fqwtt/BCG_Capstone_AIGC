@@ -9,6 +9,8 @@ from moviepy import *
 ```
 [MoviePy](https://zulko.github.io/moviepy/)
 
+![MoviePy is developed by MIT from image generation models for 2 years, and utilizes 5-layer conluvtional network as well as color histogram normalization. The developers are working on more layers to create higher resolution videos and more functions.](https://user-images.githubusercontent.com/99071588/237564636-4536fccd-f155-4456-b48e-e281026d4cf7.png)
+
 # Movio 
 requests to Movio website upload and download the videos.
 
