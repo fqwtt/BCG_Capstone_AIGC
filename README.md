@@ -1,14 +1,16 @@
 BCG_Capstone_AIGC
 
 
-MoviePy: import MoviePy library then make simple edits to videos, such as adding a line or cut a 20s video to 10s.
+# MoviePy 
+import MoviePy library then make simple edits to videos, such as adding a line or cut a 20s video to 10s.
 
 ```
 from moviepy import *
 ```
 [MoviePy](https://zulko.github.io/moviepy/)
 
-Movio: requests to Movio website upload and download the videos.
+# Movio 
+requests to Movio website upload and download the videos.
 
 ```
 !pip install requests
@@ -16,7 +18,8 @@ import requests
 ```
 [Movio](https://www.heygen.com/?from=moviola)
 
-Speech-to-text: import library and make requests after setting up the configuration.
+# Speech-to-text
+import library and make requests after setting up the configuration.
 
 ```
 import io
@@ -24,7 +27,8 @@ import os
 ```
 [Google Cloud](https://cloud.google.com/?hl=zh-cn)
 
-Image generation: train and output images from prompts with wild imagination. 
+# Image generation
+train and output images from prompts with wild imagination. 
 
 ```
 !pip install stability-sdk -q
@@ -38,7 +42,8 @@ Image generation: train and output images from prompts with wild imagination.
 
 
 
-Text generation: workable API to chatgpt with chatbox with two ways: library and endpoints.
+# Text generation
+workable API to chatgpt with chatbox with two ways: library and endpoints.
 
 ```
 !pip install openai
